@@ -358,8 +358,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Amit Mishra**
 
-- LinkedIn: [Connect with me](https://linkedin.com/in/YOUR_PROFILE)
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/amit-mishra-ios/)
+- GitHub: [@amitarchitect](https://github.com/amitarchitect)
 
 ---
 
